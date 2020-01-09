@@ -1,0 +1,90 @@
+[{
+  "album_id": "3751508",
+  "album_name": "A.I. 爱",
+  "cover": "http://imgcache.qq.com/music/photo/album_300/08/300_albumpic_3751508_0.jpg",
+  "price": 89,
+  "public_time": "2017-12-11",
+  "singers": [
+    {
+      "singer_id": "265",
+      "singer_name": "王力宏"
+    }
+  ],
+  "week": 50
+},
+{
+  "album_id": "3766916",
+  "album_name": "Pay the Man (Remi)",
+  "cover": "http://imgcache.qq.com/music/photo/album_300/16/300_albumpic_3766916_0.jpg",
+  "price": 78,
+  "public_time": "2017-12-13",
+  "singers": [
+    {
+      "singer_id": "28132",
+      "singer_name": "Foster The People"
+    },
+    {
+      "singer_id": "191884",
+      "singer_name": "J.I.D"
+    },
+    {
+      "singer_id": "173561",
+      "singer_name": "Saba"
+    }
+  ],
+  "week": 50
+},
+{
+  "album_id": "3327203",
+  "album_name": "Dreamer (梦想家)",
+  "cover": "http://imgcache.qq.com/music/photo/album_300/03/300_albumpic_3327203_0.jpg",
+  "price": 102,
+  "public_time": "2017-12-08",
+  "singers": [
+    {
+      "singer_id": "941206",
+      "singer_name": "Axwell Λ Ingrosso"
+    },
+    {
+      "singer_id": "159855",
+      "singer_name": "Trevor Guthrie"
+    }
+  ],
+  "week": 49
+},
+{
+  "album_id": "3766915",
+  "album_name": "Don't Don't Do It!",
+  "cover": "http://imgcache.qq.com/music/photo/album_300/15/300_albumpic_3766915_0.jpg",
+  "price": 65,
+  "public_time": "2017-12-13",
+  "singers": [
+    {
+      "singer_id": "13317",
+      "singer_name": "N.E.R.D"
+    },
+    {
+      "singer_id": "28021",
+      "singer_name": "Kendrick Lamar (肯德里克·拉马尔)"
+    }
+  ],
+  "week": 50
+},
+{
+  "album_id": "3324740",
+  "album_name": "Trigger Bang",
+  "cover": "http://imgcache.qq.com/music/photo/album_300/40/300_albumpic_3324740_0.jpg",
+  "price": 123,
+  "public_time": "2018-01-05",
+  "singers": [
+    {
+      "singer_id": "5125",
+      "singer_name": "Lily Allen (莉莉·艾伦)"
+    },
+    {
+      "singer_id": "49917",
+      "singer_name": "Giggs"
+    }
+  ],
+  "week": 1
+}]
